@@ -1,3 +1,3 @@
-# cityOpenData 0.1.0
+## nolaOpenData 0.1.0
 
-* Initial CRAN submission.
+- Initial CRAN submission.
